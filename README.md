@@ -7,7 +7,7 @@
         <img src="https://skillicons.dev/icons?i=dotnet,laravel,vue"/>
     </div>
     <div align="center">
-         <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,photoshop,git,github"/>
+         <img src="https://skillicons.dev/icons?i=vscode,visualstudio,photoshop,ai,figma,git,github"/>
     </div>
 </div>
 <br/>
