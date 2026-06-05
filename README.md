@@ -1,16 +1,12 @@
-## Hi there 👋
+<h2 align="center">🍉 SladkayaDynya/</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,cs,php,js,mysql,html,css,bootstrap"/>
+    <img src="https://skillicons.dev/icons?i=dotnet,laravel,vue"/>
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,photoshop,git,github"/>
+</div>
 
-<!--
-**SladkayaDynya/SladkayaDynya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SladkayaDynya/SladkayaDynya/output/github-contribution-grid-snake.svg" />
+</div>
