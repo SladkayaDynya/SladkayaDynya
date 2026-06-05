@@ -1,10 +1,15 @@
 <h2 align="center">🍉 SladkayaDynya/</h2>
-<div align="center">
+<div>
+<div>
     <img src="https://skillicons.dev/icons?i=python,cs,php,js,mysql,html,css,bootstrap"/>
-    <img src="https://skillicons.dev/icons?i=dotnet,laravel,vue"/>
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,photoshop,git,github"/>
 </div>
-
+<div>
+    <img src="https://skillicons.dev/icons?i=dotnet,laravel,vue"/>
+</div>
+<div>
+     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,photoshop,git,github"/>
+</div>
+</div>
 <br/>
 
 <div align="center">
