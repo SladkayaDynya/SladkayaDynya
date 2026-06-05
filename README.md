@@ -1,7 +1,7 @@
 <h2 align="center">🍉 SladkayaDynya</h2>
 <div>
     <div align="center">
-        <img src="https://skillicons.dev/icons?i=python,cs,php,js,mysql,html,css,bootstrap"/>
+        <img src="https://skillicons.dev/icons?i=python,cs,php,js,ts,mysql,html,css,bootstrap"/>
     </div>
     <div align="center">
         <img src="https://skillicons.dev/icons?i=dotnet,laravel,vue"/>
