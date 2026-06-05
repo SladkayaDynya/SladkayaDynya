@@ -1,4 +1,4 @@
-<h2 align="center">🍉 SladkayaDynya/</h2>
+<h2 align="center">🍉 SladkayaDynya</h2>
 <div>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,cs,php,js,mysql,html,css,bootstrap"/>
